@@ -8,7 +8,6 @@
 - 💬 Ask me about my starup ( minted )
 - ⚡ Fun fact: I can learn new skills quickly
 
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
