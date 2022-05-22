@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/19872173?s=200&v=4" title="Strapi" alt="Strapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
    <img src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
    <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
