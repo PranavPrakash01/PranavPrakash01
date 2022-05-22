@@ -20,6 +20,6 @@
   <img src="https://camo.githubusercontent.com/fd91a13f885b3655e3d994c6e16474f0a1df7a471d376f6c33576c8aadbce4a6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f38383570782d4e6f64652e6a735f6c6f676f2e7376672e706e673f3230313730343031313034333535
 " title="Node" alt="Node" width="40" height="40"/>&nbsp;
    <img src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 
 </div>
