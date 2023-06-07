@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Pranav 
 
-## I'm Full Stack Developer, Machine Learning enthusiast and an Android developer.
+## I'm Full Stack Developer, Machine Learning enthusiast and Python Developer.
 
 
-- 🔭 I’m currently working on minted.ist
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working as a Full Stack Website Developer at CCD (Placement Cell), NIT Calicut.
+- 🌱 Always learning Machine Learning and Python.
 - 💬 Ask me about my starup ( minted )
 - ⚡ Fun fact: I can learn new skills quickly
 
