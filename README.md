@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working as a Full Stack Website Developer at CCD (Placement Cell), NIT Calicut.
-- 🌱 Always learning Machine Learning and Python.
+- 🌱 Always learning  Python and Machine Learning.
 - 💬 Ask me about my starup ( minted )
 - ⚡ Fun fact: I can learn new skills quickly
 
